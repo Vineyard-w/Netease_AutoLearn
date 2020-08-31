@@ -16,8 +16,18 @@
 **【需要安装的】**
 
 1. Python环境，安装的时候需要勾选添加环境变量
-2. 需要安装的库：pandas，opencv-python，requests，selenium，
-    pip install selenium -i https://pypi.tuna.tsinghua.edu.cn/simple
-    pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple
-    pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple
-    pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple
+2. 需要安装的库：
+
+    pandas :  pip install selenium -i https://pypi.tuna.tsinghua.edu.cn/simple 
+	
+    opencv-python : pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple
+	
+    requests : pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple
+	
+    selenium : pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+   
+    
+  
+    
+    
